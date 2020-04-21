@@ -6,5 +6,6 @@
   </head>
   <body>
     <h3>coba coba remote</h3>
+    <p>paragraph baru untuk contoh</p>
   </body>
 </html>
