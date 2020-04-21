@@ -7,5 +7,9 @@
   <body>
     <h3>coba coba remote</h3>
     <p>paragraph baru untuk contoh</p>
+    <ul>
+      <li>satu</li>
+      <li>dua</li>
+    </ul>
   </body>
 </html>
